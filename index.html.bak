@@ -428,19 +428,6 @@
     <link rel='shortlink' href='https://titleboxingclub.com/' />
     <link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="https://titleboxingclub.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Ftitleboxingclub.com%2F" />
     <link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="https://titleboxingclub.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Ftitleboxingclub.com%2F&#038;format=xml" />
-    <link rel="apple-touch-icon" sizes="57x57" href="/apple-icon-57x57.png">
-    <link rel="apple-touch-icon" sizes="60x60" href="/apple-icon-60x60.png">
-    <link rel="apple-touch-icon" sizes="72x72" href="/apple-icon-72x72.png">
-    <link rel="apple-touch-icon" sizes="76x76" href="/apple-icon-76x76.png">
-    <link rel="apple-touch-icon" sizes="114x114" href="/apple-icon-114x114.png">
-    <link rel="apple-touch-icon" sizes="120x120" href="/apple-icon-120x120.png">
-    <link rel="apple-touch-icon" sizes="144x144" href="/apple-icon-144x144.png">
-    <link rel="apple-touch-icon" sizes="152x152" href="/apple-icon-152x152.png">
-    <link rel="apple-touch-icon" sizes="180x180" href="/apple-icon-180x180.png">
-    <link rel="icon" type="image/png" sizes="192x192" href="/android-icon-192x192.png">
-    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
-    <link rel="icon" type="image/png" sizes="96x96" href="/favicon-96x96.png">
-    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
     <meta name="msapplication-TileColor" content="#ffffff">
     <meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
     <meta name="theme-color" content="#ffffff">
@@ -462,68 +449,6 @@
     <link rel="dns-prefetch" href="//c.sharethis.mgr.consensu.org">
     <link rel="dns-prefetch" href="//scontent-lga3-2.xx.fbcdn.net">
     <link rel="dns-prefetch" href="//s.w.org">
-    <!-- Google Tag Manager -->
-    <script>
-        (function(w, d, s, l, i) {
-            w[l] = w[l] || [];
-            w[l].push({
-                'gtm.start': new Date().getTime(),
-                event: 'gtm.js'
-            });
-            var f = d.getElementsByTagName(s)[0],
-                j = d.createElement(s),
-                dl = l != 'dataLayer' ? '&l=' + l : '';
-            j.async = true;
-            j.src =
-                'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
-            f.parentNode.insertBefore(j, f);
-        })(window, document, 'script', 'dataLayer', 'GTM-TB7ZFM9');
-    </script>
-    <!-- End Google Tag Manager -->
-    <!-- Google Tag Manager -->
-
-    <script>
-        (function(w, d, s, l, i) {
-            w[l] = w[l] || [];
-            w[l].push({
-                'gtm.start':
-
-                    new Date().getTime(),
-                event: 'gtm.js'
-            });
-            var f = d.getElementsByTagName(s)[0],
-
-                j = d.createElement(s),
-                dl = l != 'dataLayer' ? '&l=' + l : '';
-            j.async = true;
-            j.src =
-
-                'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
-            f.parentNode.insertBefore(j, f);
-
-        })(window, document, 'script', 'dataLayer', 'GTM-WLHQFS9');
-    </script>
-
-    <!-- End Google Tag Manager -->
-
-    <!-- Google Tag Manager -->
-    <script>
-        (function(w, d, s, l, i) {
-            w[l] = w[l] || [];
-            w[l].push({
-                'gtm.start': new Date().getTime(),
-                event: 'gtm.js'
-            });
-            var f = d.getElementsByTagName(s)[0],
-                j = d.createElement(s),
-                dl = l != 'dataLayer' ? '&l=' + l : '';
-            j.async = true;
-            j.src =
-                'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
-            f.parentNode.insertBefore(j, f);
-        })(window, document, 'script', 'dataLayer', 'GTM-NFR64ST');
-    </script>
-    <!-- End Google Tag Manager -->
     <meta name="google-site-verification" content="3jkvItY-9EXS51MaeRCLFYYjj8z7DonAJiFptBykHIw" />
     <script type="text/javascript" src="//script.crazyegg.com/pages/scripts/0094/6660.js" async="async"></script>
 
@@ -621,7 +546,10 @@
 src="https://www.facebook.com/tr?id=2622807537926096&ev=PageView&noscript=1" />
 </noscript>
     <!-- End Meta Pixel Code -->
-
+<link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="favicon-16x16.png">
+<link rel="manifest" href="site.webmanifest">
 
 
 </head>
@@ -737,7 +665,7 @@ Kickboxing & BK</h3>
                                         <p>Joining a fighter's league offers excitement and the chance for significant earnings and rewards. Research various leagues to find the right fit for your goals and skill level. Best of luck on your boxing journey!</p>
 
                                         <div class="section__button text-left">
-                                           <a class="btn btn-primary" href="https://fantasymmadness.com/" title="Find A Club Link" target="_self">Play Now!</a>
+                                           <a class="btn btn-primary" href="https://fantasymmadness.com/"  target="_self">Play Now!</a>
 
                                         </div>
 
@@ -767,7 +695,7 @@ Kickboxing & BK</h3>
                                         <p>Big news! Save the date for an epic fight night featuring two titans of the fighting world going head-to-head. Don't miss out on this clash of the titans! Stay tuned for more info.</p>
 
                                         <div class="section__button text-left">
-                                             <a class="btn btn-primary" href="https://fantasymmadness.com/" title="Find A Club Link" target="_self">Play Now!</a>
+                                             <a class="btn btn-primary" href="https://fantasymmadness.com/"  target="_self">Play Now!</a>
 
                                         </div>
 
@@ -797,7 +725,7 @@ Kickboxing & BK</h3>
                                         <p>Hello fight enthusiast! Put your combat knowledge to the test and win prizes by joining our prediction game. Predict upcoming fight outcomes, earn points for each correct prediction, and climb the leaderboard for bigger rewards! 🏆</p>
 
                                         <div class="section__button text-left">
-                                          <a class="btn btn-primary" href="https://fantasymmadness.com/" title="Find A Club Link" target="_self">Play Now!</a>
+                                          <a class="btn btn-primary" href="https://fantasymmadness.com/"  target="_self">Play Now!</a>
 
                                         </div>
 
@@ -829,7 +757,7 @@ Kickboxing & BK</h3>
 </p>
 
                                         <div class="section__button text-left">
-                                            <a class="btn btn-primary" href="https://fantasymmadness.com/" title="Find A Club Link" target="_self">Play Now!</a>
+                                            <a class="btn btn-primary" href="https://fantasymmadness.com/"  target="_self">Play Now!</a>
 
                                         </div>
 
@@ -839,167 +767,8 @@ Kickboxing & BK</h3>
                         </div>
                     </div>
                 </section>
-              <!--  <section class="section__wrapper splash_image">
-                    <div class="container_full">
-                        <img src="wp-content/uploads/2022/08/Home_Press-scaled.jpg" alt="woman in boxing gloves kicking bag" width="2560" height="667" />
-                    </div>
-                </section>
-
-                <section class="section__wrapper press_logos">
-                    <div class="container">
-                        <div role="region" aria-labelledby="intro" class="section__container">
-                            <div class="section__content ">
-                                <h2 style="text-align: center;">FEATURED IN</h2>
-                            </div>
-                        </div>
-                        <div class="press_slider">
-                            <div>
-                                <div class="press_card">
-                                    <a href="https://www.askmen.com/fitness/weight_loss/amazing-fitness-transformation-of-tayo-ojo.html" target="_blank">		            	<img src="https://titleboxingclub.com/wp-content/uploads/2022/07/AskMen-logo.png" alt="" width="240" height="48" />
-		        		</a> </div>
-                            </div>
-                            <div>
-                                <div class="press_card">
-                                    <a href="https://www.msn.com/en-us/health/fitness/i-m-a-cardiologist-and-this-is-my-favorite-heart-healthy-workout/ar-AAY8Iwq" target="_blank">		            	<img src="https://titleboxingclub.com/wp-content/uploads/2022/07/MSN-logo.png" alt="" width="141" height="56" />
-		        		</a> </div>
-                            </div>
-                            <div>
-                                <div class="press_card">
-                                    <a href="https://www.vanityfair.com/hollywood/2021/02/charlize-theron-hollywood-portfolio-qa" target="_blank">		            	<img src="https://titleboxingclub.com/wp-content/uploads/2022/08/Vanity-Fair-Logo.png" alt="" width="500" height="114" />
-		        		</a> </div>
-                            </div>
-                            <div>
-                                <div class="press_card">
-                                    <img src="https://titleboxingclub.com/wp-content/uploads/2022/08/NoPath-Copy-9.png" alt="" width="270" height="53" />
-                                </div>
-                            </div>
-                            <div>
-                                <div class="press_card">
-                                    <a href="https://kstp.com/special-coverage/minnesota-live/punch-out-parkinsons/" target="_blank">		            	<img src="https://titleboxingclub.com/wp-content/uploads/2022/07/NoPath-Copy-8.png" alt="" width="72" height="72" />
-		        		</a> </div>
-                            </div>
-                            <div>
-                                <div class="press_card">
-                                    <img src="https://titleboxingclub.com/wp-content/uploads/2022/08/SHAPE-Logo.jpg" alt="" width="351" height="98" />
-                                </div>
-                            </div>
-                            <div>
-                                <div class="press_card">
-                                    <a href="https://news.yahoo.com/members-title-boxing-club-glove-163223812.html?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAAKn0BsnU8IeKwQOED0Rfyi3rMsgjgulxAHx_NH2SISKO6MaUt_jd7LXxiH7cyVNIM88KO0NXY0Alt1R6PdNDHBWW7RGIkORn8elfgma8F4bE6PMv2VkOkRH-0J7bxICVYZo0V5-pXJppoEx3uppb-NF8B67aWNtYG0vyDNvFomy9"
-                                        target="_blank">		            	<img src="https://titleboxingclub.com/wp-content/uploads/2022/07/Yahoo-Life-Logo-1.png" alt="" width="372" height="124" />
-		        		</a> </div>
-                            </div>
-                            <div>
-                                <div class="press_card">
-                                    <a href="https://www.bustle.com/wellness/benefits-of-kickboxing" target="_blank">		            	<img src="https://titleboxingclub.com/wp-content/uploads/2022/07/Bustle-Transparent-Logo-e1646771698121.png" alt="" width="172" height="47" />
-		        		</a> </div>
-                            </div>
-                            <div>
-                                <div class="press_card">
-                                    <a href="https://www.livestrong.com/article/13767544-how-to-kick-a-punching-bag/" target="_blank">		            	<img src="https://titleboxingclub.com/wp-content/uploads/2022/08/livestrong-logo.png" alt="" width="368" height="49" />
-		        		</a> </div>
-                            </div>
-                            <div>
-                                <div class="press_card">
-                                    <a href="https://www.wellandgood.com/heavy-bag-workout/" target="_blank">		            	<img src="https://titleboxingclub.com/wp-content/uploads/2022/08/well-and-good-logo-01.png" alt="" width="250" height="25" />
-		        		</a> </div>
-                            </div>
-                            <div>
-                                <div class="press_card">
-                                    <a href="https://www.menshealth.com/fitness/a36061022/boxing-parkinsons-patient-dave-similo/" target="_blank">		            	<img src="https://titleboxingclub.com/wp-content/uploads/2022/08/Mens-Health-Logo.png" alt="" width="1200" height="323" />
-		        		</a> </div>
-                            </div>
-                            <div>
-                                <div class="press_card">
-                                    <img src="https://titleboxingclub.com/wp-content/uploads/2022/08/ESPN-logo.png" alt="" width="5000" height="3000" />
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </section>
-
-                <section class="mt-5 section__wrapper splash_image" id="member_spotlight" style="background-image: url(https://titleboxingclub.com/wp-content/uploads/2022/07/Home_MemberTestimonials.jpg);">
-                    <div class="container">
-                        <div class="row">
-                            <div class="col-lg-5 offset-lg-7">
-                                <div class="card spotlight_card">
-                                    <div class="card-body">
-                                        <h2 class="card-title">Member spotlight</h2>
-                                        <div class="member_slider">
-                                            <div class="member_card">
-                                                <p>I cannot recommend TITLE enough! The classes are fast, and fun and they play great music. Stop by to try a class and you’ll see why so many people love TITLE Boxing Club!</p>
-                                                <p class="spotlight_member_name">Tara F.</p>
-                                            </div>
-
-                                            <div class="member_card">
-                                                <p>I joined TITLE Boxing Club because I wanted to gain confidence. Now, I feel powerful and it’s a blast learning to throw a punch. This has been so much more than just a boxing class. </p>
-                                                <p class="spotlight_member_name"> Kathleen I. </p>
-                                            </div>
-
-                                            <div class="member_card">
-                                                <p>Great workout head to toe &#8211; cardio, muscle building, losing weight&#8230;it&#8217;s all right here. And the camaraderie you build with other members is second to none.</p>
-                                                <p class="spotlight_member_name">Daniel L. </p>
-                                            </div>
-
-                                            <div class="member_card">
-                                                <p>Workouts are fun and taking your stress out by hitting a heavy bag is awesome.</p>
-                                                <p class="spotlight_member_name">Julie M. </p>
-                                            </div>
-
-                                            <div class="member_card">
-                                                <p>I love this place! I had wanted to try boxing workouts for a while, but I was intimidated. I finally checked it out and I&#8217;ve been going ever since! Super fun and engaging workouts.</p>
-                                                <p class="spotlight_member_name">Cory A.</p>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </section>
-
-
-                <section class="section__wrapper " id="">
-                    <div class="container">
-                        <div class="row ">
-                            <div class="col-md-12">
-                                <div role="region" aria-labelledby="intro" class="section__container">
-                                    <div class="section__content ">
-                                        <h2 style="text-align: center;">Recent TITLE Boxing Club <span class="color--base_blue">Blogs</span></h2>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="image_content_wrapper">
-                            <div class="img_cb w-100 p-0">
-                                <img src="https://titleboxingclub.com/wp-content/themes/franchise/assets/images/Home_Blog.jpg" alt="TITLE blog posting image" height="600" width="800" />
-                            </div>
-                            <div class="img_cb_container">
-                                <div class="img_cb">
-                                    <div class="img_cb_content">
-                                        <h3>How To Create a Sleep Routine for Better Rest and Recovery</h3>
-                                        <p>Getting quality sleep is vital for your overall health and plays a significant role in your fitness and recovery. To boost your energy and enhance your performance, establishing a consistent sleep routine is essential.
-                                            Here’s how you can build better sleep habits. Set a Consistent Schedule Going to bed and waking up at the same&hellip;</p>
-                                        <div class="section__button text-left">
-                                            <a class="btn btn-tertiery" href="https://titleboxingclub.com/blog/how-to-create-a-sleep-routine-for-better-rest-and-recovery/">Read More</a>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="img_cb">
-                                    <div class="img_cb_content">
-                                        <h3>How to Transition from Solo Workouts to Group Fitness</h3>
-                                        <p>Working out solo has its perks—flexibility, focus, and a chance to clear your mind. But if you’re looking to add more energy, accountability, and social interaction to your fitness routine, transitioning to group
-                                            fitness could be just the change you need. At TITLE Boxing Club, our group workouts create an electrifying atmosphere that can elevate&hellip;</p>
-                                        <div class="section__button text-left">
-                                            <a class="btn btn-tertiery" href="https://titleboxingclub.com/blog/how-to-transition-from-solo-workouts-to-group-fitness/">Read More</a>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </section>
--->
+              
+			  
             </div>
             <!-- .wrap -->
         </div>
