@@ -1137,8 +1137,8 @@ Kickboxing & BK</h3>
     </script>
     <!-- End Meta Pixel Event Code -->
     <div id='fb-pxl-ajax-code'></div>
-    <script type="text/javascript" src="https://titleboxingclub.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js"></script>
-    <script type="text/javascript" src="https://titleboxingclub.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1" id="jquery-migrate-js"></script>
+    <script type="text/javascript" src="wp-includes/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js"></script>
+    <script type="text/javascript" src="wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1" id="jquery-migrate-js"></script>
     <script type="text/javascript" id="display-clubs-js-extra">
         /* <![CDATA[ */
         var ajax_object = {
@@ -1146,9 +1146,9 @@ Kickboxing & BK</h3>
         };
         /* ]]> */
     </script>
-    <script type="text/javascript" src="https://titleboxingclub.com/wp-content/themes/franchise/assets/src/js/custom-script.js?ver=1.1" id="display-clubs-js"></script>
-    <script type="text/javascript" src="https://titleboxingclub.com/wp-content/themes/cybermark/assets/dist/js/main.js?ver=2.0.1" id="cm-bootstrap-script-js"></script>
-    <script type="text/javascript" src="https://titleboxingclub.com/wp-content/themes/franchise/assets/dist/js/main.js?ver=2.0.1" id="franchise-script-js"></script>
+    <script type="text/javascript" src="wp-content/themes/franchise/assets/src/js/custom-script.js?ver=1.1" id="display-clubs-js"></script>
+    <script type="text/javascript" src="wp-content/themes/cybermark/assets/dist/js/main.js?ver=2.0.1" id="cm-bootstrap-script-js"></script>
+    <script type="text/javascript" src="wp-content/themes/franchise/assets/dist/js/main.js?ver=2.0.1" id="franchise-script-js"></script>
     <script>
         jQuery(document).ready(function($) {
 
